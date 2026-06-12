@@ -1,0 +1,16 @@
+﻿Report = Panel Bill of Material (PUR_PBOM)
+Format = (16 2 3 6 4  (12 ))
+Title = ("ITEMS" "N/A" "QTY" "CATALOG" "MANUFACTURER" "ASSYCODE" "DESCRIPTION" "DESC" "QUERY2" "QUERY3" "MISC1" "MISC2" "USER1" "USER2" "USER3" "TABNAM" "TAGS" "DESC1" "DESC2" "DESC3" "INST" "LOC" "UM" "HDL" "DWGIX" "REF" "SH" "SOURCE" )
+Characters = (12 4 6 60 24 24 60 60 60 60 60 60 24 24 24 32 24 60 60 60 24 16 60 18 12 12 12 12 )
+Justification = ("R" "L" "MC" "MC" "MC" "L" "MC" "R" "R" "L" "L" "L" "L" "L" "L" "L" "MC" "L" "L" "L" "L" "L" "L" "L" "L" "L" "L" "L" )
+Sorting = (16 5 4 4 "N" )
+User Post Process = ( "0" "0" "1")
+Include Options = ("1" "0" "1" "1" "1" "1" "1" "1" "0" "0" "0" "1" "0" "0" "" "0" )
+Location Options = (3 "~FLD" )
+Installation Options = (3 "~DIN" )
+Table Options = ("" "" "0" "0" "0" "1" "1" "0" "0" "0" "" "" "0" "0" )
+Table Settings = ("" "" "" "PSYMS" 1 1 1 "" "" "" "25" "" "" "" "0" "col_varies" " Report for Project C:/Users/zbarge/Documents/Acade 2025/AeData/Proj/28851 RUSSEL BRANCH SPS - PLC PANEL/28851 RUSSEL BRANCH SPS - PLC PANEL.wdp" nil )
+Table Fix Options = ("0" "0" "0" "0" "0" "0" )
+Table Layout = (5.2200 4.3700 7.7700 11.1700 12.0200 )
+Table Insertion = 0
+Table Style = "BOM"
